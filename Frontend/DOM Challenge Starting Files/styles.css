@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+.visibility {
+  visibility: hidden;
+}
+
+.title {
+  font-size: 10rem;
+  color: purple;
+  font-family: "Courier New", Courier, monospace;
+}
